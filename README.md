@@ -11,7 +11,7 @@ Alfarobby27
 Copy the link below to view this web
 
 ```bash
-https://alfarobby27.github.io/bootstrap-portofolio/
+alfarobby27.github.io/bootstrap-portofolio/
 ```
 
 ## Download source code
